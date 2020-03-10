@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#banner{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+}
+
+.cor-texto{
+    color: red;
+}
+
+.negrito{
+    font-weight: bold;
+}
